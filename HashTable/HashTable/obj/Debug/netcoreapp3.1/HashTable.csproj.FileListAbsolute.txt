@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\HashTable\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\HashTable\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\HashTable\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\HashTable\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\HashTable\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
